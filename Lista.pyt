@@ -52,7 +52,8 @@ def TipoHumanos():
 
 def InteiroNegativo():
     num=int(input('Digite um número: '))
-    if(num)
+    if(num):
+        
 
 op=int(input('qual Exercicio deseja'))
 if(op==1):
